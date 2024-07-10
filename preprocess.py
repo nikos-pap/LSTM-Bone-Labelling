@@ -2,7 +2,6 @@ import bpy
 import os
 import numpy as np
 
-#os.system('cls')
 obj = bpy.data.objects
 armature = obj[0]
 sce = bpy.context.scene
