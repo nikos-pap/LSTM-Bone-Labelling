@@ -1,0 +1,38 @@
+0 mixamorig:Hips 0
+1 mixamorig:Spine 1
+2 mixamorig:Spine1 2
+3 mixamorig:Spine2 3
+
+4 mixamorig:Neck 6
+5 mixamorig:Head 7
+6 mixamorig:HeadTop_End 8
+
+7 mixamorig:LeftShoulder 57
+8 mixamorig:LeftArm 58
+9 mixamorig:LeftForeArm 59
+10 mixamorig:LeftHand 60
+11 mixamorig:LeftHandIndex1 66
+12 mixamorig:LeftHandIndex2 67
+13 mixamorig:LeftHandIndex3 68
+14 mixamorig:LeftHandIndex4 69
+
+15 mixamorig:RightShoulder 87
+16 mixamorig:RightArm 88
+17 mixamorig:RightForeArm 89
+18 mixamorig:RightHand 90
+19 mixamorig:RightHandIndex1 96
+20 mixamorig:RightHandIndex2 97
+21 mixamorig:RightHandIndex3 98
+22 mixamorig:RightHandIndex4 99
+
+23 mixamorig:LeftUpLeg 117
+24 mixamorig:LeftLeg 118
+25 mixamorig:LeftFoot 119
+26 mixamorig:LeftToeBase 120
+27 mixamorig:LeftToe_End 121
+
+28 mixamorig:RightUpLeg 127
+29 mixamorig:RightLeg 128
+30 mixamorig:RightFoot 129
+31 mixamorig:RightToeBase 130
+32 mixamorig:RightToe_End 131

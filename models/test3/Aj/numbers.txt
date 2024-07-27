@@ -1,0 +1,81 @@
+Hips 0
+Pelvis 1
+
+LeftUpLeg 117
+LeftLeg 118
+LeftFoot 119
+LeftToeBase 120
+LFootTongue 121
+LeftPantLeg 122
+
+RightUpLeg 128
+RightLeg 129
+RightFoot 130
+RightToeBase 131
+RFootTongue 132
+RightPantLeg 133
+
+Spine 2
+Spine1 3
+Spine2 4
+
+Neck 6
+Head 7
+HairB 8
+HairA 9
+Hat 13
+
+LeftShoulder 57
+LeftArm 58
+LeftForeArm 59
+LeftHand 60
+LeftHandThumb1 61
+LeftHandThumb2 62
+LeftHandThumb3 63
+LeftHandIndex1 64
+LeftHandIndex2 65
+LeftHandIndex3 66
+LeftHandMiddle1 67
+LeftHandMiddle2 68
+LeftHandMiddle3 69
+LeftHandRing1 70
+LeftHandRing2 71
+LeftHandRing3 72
+LeftHandPinky1 73
+LeftHandPinky2 74
+LeftHandPinky3 75
+LSleeve 76
+
+RightShoulder 87
+RightArm 88
+RightForeArm 89
+RightHand 90
+RightHandThumb1 91
+RightHandThumb2 92
+RightHandThumb3 93
+RightHandIndex1 94
+RightHandIndex2 95
+RightHandIndex3 96
+RightHandMiddle1 97
+RightHandMiddle2 98
+RightHandMiddle3 99
+RightHandRing1 100
+RightHandRing2 101
+RightHandRing3 102
+RightHandPinky1 103
+RightHandPinky2 104
+RightHandPinky3 105
+RSleeve 106
+
+Backpack 139
+Hood 140
+Hood1 141
+LHoodieString 142
+LHoodieString1 143
+LHoodieString2 144
+RHoodieString 145
+RHoodieString1 146
+RHoodieString2 147
+LBackpack_Strap 148
+RBackpack_Strap 149
+BoyFacialAnim_Joint 150

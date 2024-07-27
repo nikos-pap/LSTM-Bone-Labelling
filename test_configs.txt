@@ -1,0 +1,47 @@
+lstm:1000 lstm:1000 attention dense:500:relu dense:100:relu dense:200:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 dropout:0.2 attention dense:500:relu dense:100:relu dense:200:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.1 attention dense:500:relu dense:100:relu dense:200:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.2 attention dense:500:relu dense:100:relu dense:200:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.3 attention dense:500:relu dense:100:relu dense:200:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.2 attention dense:500:relu dense:100:relu dense:200:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.3 attention dense:500:relu dense:100:relu dense:200:relu dense:5:softmax
+lstm:1000 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.5 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 dropout:0.1 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 dropout:0.2 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.1 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.2 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.3 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.2 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.3 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 lstm:1000 attention dense:700:relu dense:1300:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.5 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 lstm:1000 dropout:0.5 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 dropout:0.2 attention dense:700:relu dense:1300:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.1 attention dense:700:relu dense:1300:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.2 attention dense:700:relu dense:1300:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.3 attention dense:700:relu dense:1300:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.2 attention dense:700:relu dense:1300:relu dense:300:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.3 attention dense:700:relu dense:1300:relu dense:300:relu dense:5:softmax
+lstm:1000 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.5 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 dropout:0.1 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 dropout:0.2 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.1 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.2 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.3 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.2 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.3 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 lstm:1000 attention dense:700:relu dense:1300:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.5 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 lstm:1000 dropout:0.5 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 attention dense:1300:relu dense:700:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 dropout:0.1 attention dense:700:relu dense:1300:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.1 lstm:1000 dropout:0.2 attention dense:700:relu dense:1300:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.1 attention dense:700:relu dense:1300:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.2 attention dense:700:relu dense:1300:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.2 lstm:1000 dropout:0.3 attention dense:700:relu dense:1300:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.2 attention dense:700:relu dense:1300:relu dense:300:relu dense:100:relu dense:5:softmax
+lstm:1000 dropout:0.3 lstm:1000 dropout:0.3 attention dense:700:relu dense:1300:relu dense:300:relu dense:100:relu dense:5:softmax
