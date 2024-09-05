@@ -8,7 +8,7 @@ This is a demo demonstrating the results of my research. Altering the data or th
 
 ## Architecture
 The Architecture of the demo consists of two parts, the LSTM part and the Dense part connected by an Attention Layer. The input of the the Network is an animation of a model that is passed to the LSTM and Attention Layers to highlight the latent important features in the data. The Dense Part of the Network then classifies the bones of the model according to the body part they belong to.
-![](https://github.com/user-attachments/assets/f3014c71-e467-450d-ac1f-d42c3b55331b)
+![](design.png)
 *Architecture of Network Used in the Demo*
 ## Structure
 The project has 3 main folders *run*, *train* and *preprocess*.\
